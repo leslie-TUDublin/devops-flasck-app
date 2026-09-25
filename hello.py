@@ -17,6 +17,8 @@ def about():
     return '''
     <p>This applicarion is running on the Flask web f.<p>
     <p><a href="https://flask.palletsprojects.com/">Flask website </a><p>
+        <p><a href="https://flask.palletsprojects.com/">Flask website </a><p>
+
     <p><a href="/">Back to home </a><p>
      '''
 
